@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /
+Disallow: /MoreArt/
+Disallow: /css/
+Disallow: /form/
+Disallow: /icon/
+Disallow: /js/
+Disallow: /objects/
+Disallow: /page/
